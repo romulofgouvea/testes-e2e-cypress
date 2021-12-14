@@ -1,3 +1,3 @@
 it("Teste Method", () => {
-    console.log("Teste")
-})
+	console.log("Teste");
+});
