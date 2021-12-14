@@ -1,3 +1,5 @@
+/// <reference types="cypress">
+
 it("Igualdade", () => {
 	const a = 1;
 

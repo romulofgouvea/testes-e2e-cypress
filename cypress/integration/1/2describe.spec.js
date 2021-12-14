@@ -1,3 +1,5 @@
+/// <reference types="cypress">
+
 describe("Grupo de testes", () => {
 	describe("Subgrupo de testes", () => {
 		it("Subteste 1", () => {
