@@ -69,6 +69,7 @@ describe("Trabalhando com elementos basicos", () => {
 		cy.get("#buttonCount").click().click().should("have.value", "111");
 	});
 
+	//DIVIDA 5BASIC
 	it("Deve imprimir o titulo da pagina", () => {
 		//aula 5basic.spec.js
 		//imprime o titulo da pagina no log
